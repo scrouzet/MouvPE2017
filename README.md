@@ -1,4 +1,4 @@
-J'ai réalisé un programme informatique afin d'extraire automatiquement les données du fichier pdf du mouvement 2017 pour les profs des écoles en Haute-Garonne (31). Ceci pour créer une carte Google Map avec un repère par école (maternelles et élémentaires).
+Ce code permet d'extraire automatiquement les données du fichier pdf du mouvement 2017 pour les profs des écoles en Haute-Garonne (31). Ceci pour créer une carte Google Map avec un repère par école (maternelles et élémentaires).
 
 Quand on clique sur un repère, on voit toutes les informations extraites du pdf pour cette école. Le code couleur correspond au nombre de postes vacants : par exemple repère gris = école sans poste noté vacant. Suivez ce lien pour accéder à la carte : 
 https://drive.google.com/open?id=1AzOy1cuPgFxCl9L1FvM6shpca88&usp=sharing
